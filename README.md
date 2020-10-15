@@ -9,7 +9,7 @@ Schritte zur Einrichtung:
 -Die benötigten Berechtigungen zulassen  
 -Den Flow starten  
 
-Bei Bedenken wegen der Berechtigungen öffnet den Flow und seht selbst, dass dieser nichts schlimmes macht.  
+
 
 Der Flow wartet bis er ein Untertitelelement erkennt und drückt dann die 3 benötigten Tasten um die Untertitel auszuschalten.  
 => Englische Videos ohne Untertitel 🎉🎊 yaay  
