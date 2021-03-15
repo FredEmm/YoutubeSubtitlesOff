@@ -3,8 +3,8 @@ Untertitel in der Android Youtube App automatisch abschalten.
 Diese "Lösung" drückt schnell den CC Knopf um die Untertitel auszuschalten.  
 
 Schritte zur Einrichtung:  
--"Automate" vom Playstore herrunterladen  
--Repository klonen
+-"Automate" vom Playstore herrunterladen
+-[Mit diesem Link den Flow herrunterladen](https://github.com/FredEmm/YoutubeSubtitlesOff/releases/download/01/Youtube_Subtitles_Off_01.flo)
 -Den Flow in Automate importieren  
 -Die benötigten Berechtigungen zulassen  
 -Den Flow starten  
